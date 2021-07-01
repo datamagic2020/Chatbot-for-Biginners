@@ -2,6 +2,8 @@
 #install packages
 # pip install "chatterbot==1.0.0"
 # pip install pytz
+#      OR
+# pip install -r requirements.txt
 
 # import required packages
 from chatterbot import ChatBot
